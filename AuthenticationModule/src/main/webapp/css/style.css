@@ -1,0 +1,66 @@
+
+.bg-custom{
+	background-color:#00bfa5 !important;
+}
+
+ body .custom-color-lite{
+	background-color:#00bfa5;
+}
+
+.elementss a span:hover {
+	color:#eeeeee;
+}
+
+.search-btn span{
+	color:white;
+}
+
+.search-btn button:hover{
+	background-color:#808080;
+	transition:0s;
+}
+
+.search-btn button:hover span{
+	color:white;
+	transition:0s;
+}
+
+.card .center-me{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	
+}
+
+body .form-card{
+	margin-top:40px;
+}
+
+.icon-cog {
+  color: white;
+}
+
+.submit-btn button{
+	background-color:#00bfa5;
+	transition:0s;
+}
+
+
+.submit-btn button:hover{
+	background-color:#808080;
+	transition:0s;
+}
+
+.submit-btn button:hover span{
+	color:white;
+	transition:0s;
+}
+
+.container .card-det{
+	background-color:red;
+}
+
+
+
+
